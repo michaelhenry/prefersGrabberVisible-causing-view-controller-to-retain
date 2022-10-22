@@ -1,5 +1,5 @@
 
-BUG Report:
+UIKit bug Report:
 
 [prefersGrabberVisible](https://developer.apple.com/documentation/uikit/uisheetpresentationcontroller/3801906-prefersgrabbervisible) of the [UISheetPresentationController](https://developer.apple.com/documentation/uikit/uisheetpresentationcontroller) is causing view controller to retain or never get deallocated
 
